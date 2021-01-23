@@ -12,3 +12,6 @@
 body{
     background-color: var(--bkg-color);
 }
+.github{
+    height: 16px;
+}
