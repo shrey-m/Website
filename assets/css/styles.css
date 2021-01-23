@@ -5,13 +5,13 @@
 
 /*Background Colour*/
 :root{
-    --bkg-color:#000;
+    --bkg-color:gray;
     --text-color:#FFF;
 }
 
 body{
     background-color: var(--bkg-color);
-    text-color: var(--text-color);
+    /*text-color: var(--text-color);*/
 }
 .github{
     height: 16px;
