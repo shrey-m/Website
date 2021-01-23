@@ -11,6 +11,7 @@
 
 body{
     background-color: var(--bkg-color);
+    text-color: var(--text-color);
 }
 .github{
     height: 16px;
